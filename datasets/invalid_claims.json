@@ -1,0 +1,12 @@
+[
+  {"title": "Perpetual Motion", "inputs": {"energy_in_j": 0}, "outputs": {"energy_out_j": 500}},
+  {"title": "Free Energy Magnet", "inputs": {"voltage_v": 12, "current_a": 2}, "outputs": {"power_out_w": 500}},
+  {"title": "Matter Creator", "inputs": {"mass_in_kg": 0}, "outputs": {"mass_out_kg": 10}},
+  {"title": "Over-Unity Generator", "inputs": {"energy_in_j": 100}, "outputs": {"energy_out_j": 150}},
+  {"title": "Magic Circuit", "inputs": {"voltage_v": 0, "current_a": 0}, "outputs": {"power_out_w": 100}},
+  {"title": "Mass Multiplier", "inputs": {"mass_in_kg": 5}, "outputs": {"mass_out_kg": 8}},
+  {"title": "Infinite Battery", "inputs": {"energy_in_j": 100}, "outputs": {"energy_out_j": 1000}},
+  {"title": "Zero-Input Heater", "inputs": {"voltage_v": 0, "current_a": 0}, "outputs": {"power_out_w": 50}},
+  {"title": "Gravity Motor", "inputs": {"energy_in_j": 0}, "outputs": {"energy_out_j": 200}},
+  {"title": "Power Duplicator", "inputs": {"voltage_v": 10, "current_a": 1}, "outputs": {"power_out_w": 100}}
+]

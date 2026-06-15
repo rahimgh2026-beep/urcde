@@ -1,0 +1,12 @@
+[
+  {"title": "Valid Motor", "inputs": {"voltage_v": 220, "current_a": 10}, "outputs": {"power_out_w": 2000}},
+  {"title": "Valid Heater", "inputs": {"voltage_v": 110, "current_a": 5}, "outputs": {"power_out_w": 500}},
+  {"title": "Valid Pump", "inputs": {"energy_in_j": 5000, "mass_in_kg": 50}, "outputs": {"energy_out_j": 4000, "mass_out_kg": 50}},
+  {"title": "Valid Turbine", "inputs": {"energy_in_j": 10000}, "outputs": {"energy_out_j": 4000}},
+  {"title": "Valid Solar", "inputs": {"energy_in_j": 1000}, "outputs": {"energy_out_j": 200}},
+  {"title": "Valid Battery", "inputs": {"energy_in_j": 3600}, "outputs": {"energy_out_j": 3500}},
+  {"title": "Valid Engine", "inputs": {"energy_in_j": 10000}, "outputs": {"energy_out_j": 3000}},
+  {"title": "Valid Compressor", "inputs": {"energy_in_j": 2000}, "outputs": {"energy_out_j": 1500}},
+  {"title": "Valid Generator", "inputs": {"energy_in_j": 5000}, "outputs": {"energy_out_j": 4500}},
+  {"title": "Valid Exchanger", "inputs": {"energy_in_j": 1000}, "outputs": {"energy_out_j": 900}}
+]
